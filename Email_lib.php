@@ -10,8 +10,8 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 CLass Email {
-    private $user_name="support@digitlay.com"; //SET SMTP User Name
-    private $password = "BqtaA%?VoUIN";//SET SMTP Password
+    private $user_name=""; //SET SMTP User Name
+    private $password = "";//SET SMTP Password
 
     public function sendMail($to,$subject,$body){
         //Create an instance; passing `true` enables exceptions
