@@ -1,0 +1,2 @@
+[14-Jun-2023 07:16:44 UTC] PHP Warning:  file_get_contents(user_mailer.php): Failed to open stream: No such file or directory in /home/frupoiqz/public_html/sales/contact.php on line 18
+[15-Jun-2023 06:13:03 UTC] PHP Warning:  Undefined variable $email in /home/frupoiqz/public_html/app-development/contact.php on line 40
